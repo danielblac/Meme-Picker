@@ -1,5 +1,9 @@
 body {
     background-color: green;
     font-family: 'Times New Roman', Times, serif;
+<<<<<<< HEAD
     padding: 20px;
+=======
+    padding: 25px;
+>>>>>>> feature-3
 }
